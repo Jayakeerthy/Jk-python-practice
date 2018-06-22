@@ -1,2 +1,3 @@
 # Jk-python-practice
-Practice python programs
+#for practicing Python
+Print "hello World"
